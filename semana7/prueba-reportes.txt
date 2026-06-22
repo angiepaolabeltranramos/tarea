@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes registrados. Como todavía no se ha enviado ningún reporte, la respuesta mostrada es []. Esto indica que el sistema funciona correctamente y está listo para almacenar información.
